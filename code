@@ -1,1 +1,3 @@
-
+git add .
+git commit -m "Finish generic relationships"
+git push
